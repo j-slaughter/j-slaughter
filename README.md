@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @j-slaughter
 - 👀 I’m interested in becoming a software engineer.
 - 🌱 I’m currently learning Python and Javascript.
+- 🏛️ I'm taking CSx50: Intro to CompSci and learning C.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me ...
 
