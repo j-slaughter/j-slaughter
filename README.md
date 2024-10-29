@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @j-slaughter
+- 👋 Hi, I’m @jennifer!
 - 👀 I’m a fullstack software engineer.
 - 🌱 Languages: Javascript/Typescript, C, Python
-- 🏛️ Codesmith/ Cornell University alum.
+- 🏛️ Cornell University/ Codesmith alum.
 - 📫 How to reach me ...
 - Check out my linkedin: www.linkedin.com/in/j-slaughter
+
+- ✨ I love being a creative nerd! Artistic problem-solving is what I love to do.
+- Willing to contribute to open source projects!
 
 <!---
 j-slaughter/j-slaughter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
