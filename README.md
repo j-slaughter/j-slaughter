@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - Check out my linkedin: www.linkedin.com/in/j-slaughter
 
-- ✨ I love being a creative nerd! Artistic problem-solving is what I love to do.
+- ✨ I love being a creative nerd! Artistic problem-solving is what I do.
 - Willing to contribute to open source projects!
 
 <!---
